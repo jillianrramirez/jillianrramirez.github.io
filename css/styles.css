@@ -1,0 +1,61 @@
+/*===== Banner Styles =====*/
+#home {
+	height: 500px;
+	background-image: url('../img/white-honeycomb.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#home .container {
+	height: 200px;
+	display: flex;
+	justify-content: center;
+	align-items: baseline;
+	padding-top: 370px;
+}
+
+#home img {
+	height: 250px;
+	width: 250px;
+	border-radius: 100%;
+}
+
+/*===== Navbar Styles =====*/
+.nav {
+	padding-left: 407px;
+	padding-top: 150px;
+}
+
+.nav-pills a {
+	color: #000;
+	padding-left: 20px;
+}
+
+.nav li a {
+	padding: 10px 35px;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+	background-color: #BFC5CB;
+}
+/*===== Skills Styles =====*/
+#skills {
+	height: 400px;
+	margin-top: 100px;
+}
+
+#skills img {
+	height: 250px;
+	width: 250px;
+	border-radius: 100%;	
+}
+
+/*===== Projects Styles =====*/
+#projects {
+	height: 500px;
+	background-image: url('../img/scales.png');
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+
