@@ -32,6 +32,18 @@
 	display: flex;
 }
 
+.contact-icons {
+	float: left;
+
+}
+
+.contact-icons i {
+  color: #000;
+  font-size: 2em;
+  padding: 128px 6px;
+}
+
+
 
 /*===== Navbar Styles =====*/
 .nav {
@@ -150,15 +162,15 @@
   text-align: center;
 }
 
-.contact-icons {
+.footer-icons {
   float: left;
 
 }
 
-.contact-icons i {
+.footer-icons i {
   color: #000;
   font-size: 2em;
-  padding: 128px 6px;
+  padding: 19px 6px;
 }
 
 
